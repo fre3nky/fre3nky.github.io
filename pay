@@ -1,0 +1,13 @@
+{
+  "addresses": [
+    {
+      "paymentNetwork": "XRPL",
+      "environment": "MAINNET",
+      "addressDetailsType": "CryptoAddressDetails",
+      "addressDetails": {
+        "address": "rDTztPziTsDyW6r8JknLPSGZPLxdAmob27"
+      }
+    }
+  ],
+  "payId": "pay$frenky.github.io"
+}
